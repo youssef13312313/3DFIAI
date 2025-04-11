@@ -183,21 +183,21 @@ export default function Rodin() {
   const ExternalLinks = () => (
     <div className="flex items-center space-x-6">
       <a
-        href="https://hyper3d.ai"
+        href="https://x.com/3dfi_ai"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center text-white hover:text-gray-300 transition-colors tracking-normal"
       >
-        <span className="mr-1">Website</span>
+        <span className="mr-1">Twitter</span>
         <ExternalLink className="h-4 w-4" />
       </a>
       <a
-        href="https://developer.hyper3d.ai"
+        href="https://github.com/frdela/3DFIAI"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center text-white hover:text-gray-300 transition-colors tracking-normal"
       >
-        <span className="mr-1">API Docs</span>
+        <span className="mr-1">Github</span>
         <ExternalLink className="h-4 w-4" />
       </a>
     </div>
@@ -214,8 +214,8 @@ export default function Rodin() {
       <div className="absolute inset-0 z-10 pointer-events-none">
         {/* Logo in top left */}
         <div className="absolute top-6 left-6 pointer-events-auto">
-          <h1 className="text-3xl text-white font-normal tracking-normal">3D Model Generator</h1>
-          <p className="text-gray-400 text-sm mt-1 tracking-normal">Powered by Hyper3D Rodin</p>
+          <h1 className="text-3xl text-white font-normal tracking-normal">3D FI</h1>
+          <p className="text-gray-400 text-sm mt-1 tracking-normal">Generate your 3D Model</p>
         </div>
 
         {/* Links in top right - desktop only */}
