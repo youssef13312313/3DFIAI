@@ -2,7 +2,7 @@
 
 <img width="300px" alt="demo_pose" src="./logo.jpg" />
 
-[MiKaPo](https://mikapo.amyang.dev) is a **Web-based tool** that poses MMD models from video input in real-time. Welcome feature requests and PRs!
+[MiKaPo](https://3dfi.ai) is a **Web-based tool** that poses MMD models from video input in real-time. Welcome feature requests and PRs!
 
 
 ## Features
